@@ -10,6 +10,7 @@ import * as dat from 'dat.gui'
 // Canvas
 const canvas = document.querySelector('div#webgl')
 
+
 // Scene
 const scene = new THREE.Scene()
 
