@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    height: 100vh;
+    font-family: 'Poppins';
+    /*background-image: linear-gradient(rgb(177, 198, 238), rgb(255, 236, 243), rgb(252, 221, 156), rgb(139, 127, 112));
+*/
+}
+
+#webgl
+{
+    background-image: linear-gradient(rgb(179, 198, 233), rgb(255, 236, 243), rgb(252, 221, 156), rgb(139, 127, 112));
+    /*width: 600px;
+    height: 600px;*/
+    height:600px;
+    border: 0px solid black;
+    margin: 0px;
+    margin-right: 30px;
+    padding: 0px;
+    position: static; /* fixed or static */
+    /*top: 50px;
+    left: 50px;*/
+}
+
