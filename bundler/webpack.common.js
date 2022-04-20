@@ -8,7 +8,7 @@ module.exports = {
     output:
     {
         filename: 'bundle.[contenthash].js',
-        path: path.resolve(__dirname, '/')
+        publicPath: "/the.decor2/",
     },
     devtool: 'source-map',
     plugins:
